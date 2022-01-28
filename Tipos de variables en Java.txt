@@ -1,0 +1,18 @@
+Tipos de variables en Java
+
+Variable: es un espacio en memoria que contiene un dato. Se componen de un nombre y un valor. Los nombres de las variables deben ser únicos.
+    - Variables de instancias: objetos.
+    - Variables estaticas: variables de clase que pueden accedidas por medio del nombre de la clase.
+
+Convención de nombres en Java:
+    - Sensible a mayúsculas y minúsculas
+    - Comenzar con letra, $ o "_"
+    - Las constantes se deben nombrar en mayúsculas y con la palabra reservada final.
+    - Camel case (Camello): Upper camel case o Lower camel case. NameVariable(Upper), nameVariable(lowel).
+      - El upper camel case es usado para nombrar clases, y lower camel case para nombrar variables.
+
+Tipos de datos numéricos:
+    - 
+
+
+
