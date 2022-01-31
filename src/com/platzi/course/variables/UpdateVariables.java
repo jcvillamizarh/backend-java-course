@@ -1,3 +1,5 @@
+package com.platzi.course.variables;
+
 public class UpdateVariables {
     public static void main(String[] args) {
         int salary = 1000;

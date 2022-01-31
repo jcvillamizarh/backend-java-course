@@ -1,3 +1,5 @@
+package com.platzi.course.variables;
+
 public class Variables {
     public static void main(String[] args) {
         //Declaring a variable

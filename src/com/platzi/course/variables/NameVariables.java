@@ -1,3 +1,5 @@
+package com.platzi.course.variables;
+
 public class NameVariables {
     public static void main(String[] args) {
         int cellphone = 321457898;

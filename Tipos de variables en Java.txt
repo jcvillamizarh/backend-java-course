@@ -1,8 +1,8 @@
 Tipos de variables en Java
 
 Variable: es un espacio en memoria que contiene un dato. Se componen de un nombre y un valor. Los nombres de las variables deben ser únicos.
-    - Variables de instancias: objetos.
-    - Variables estaticas: variables de clase que pueden accedidas por medio del nombre de la clase.
+    - com.platzi.course.variables.Variables de instancias: objetos.
+    - com.platzi.course.variables.Variables estaticas: variables de clase que pueden accedidas por medio del nombre de la clase.
 
 Convención de nombres en Java:
     - Sensible a mayúsculas y minúsculas
