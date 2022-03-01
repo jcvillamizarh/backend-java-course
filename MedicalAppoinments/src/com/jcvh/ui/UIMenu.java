@@ -1,4 +1,4 @@
-package com.jcvh.menu;
+package com.jcvh.ui;
 import java.util.Scanner;
 
 public class UIMenu {
