@@ -1,17 +1,18 @@
-package com.jcvh.ui;
+package com.jcvh;
 
 import com.jcvh.domain.Doctor;
 import com.jcvh.domain.Patient;
 import com.jcvh.domain.User;
+import com.jcvh.ui.UIMenu;
 
 import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
 
-        //showMenu();
+        UIMenu.showMenu();
 
-        Doctor myDoctor = new Doctor("Juan Camilo", "jc@email.com");
+        /*Doctor myDoctor = new Doctor("Juan Camilo", "jc@email.com");
         myDoctor.setSpeciality("Neurocirugano");
         myDoctor.setPhoneNumber("456789");
         myDoctor.setAddress("Street always alive");
@@ -27,7 +28,7 @@ public class Main {
         user.showDataUser();
 
         User userPatient = new Patient("Juaquis", "juako@mail.com");
-        userPatient.showDataUser();
+        userPatient.showDataUser();*/
 
     }
 }
